@@ -2,7 +2,7 @@
 
 from finial.decorators import active_override
 
-from django.conf.urls.defaults import url, patterns
+from django.conf.urls import url, patterns
 from django.views.generic.simple import direct_to_template
 
 """This URLConf is used only in the test_template_context_processor tests."""

@@ -1,6 +1,6 @@
 # (c) 2013 Urban Airship and Contributors
 
-from django.conf.urls.defaults import url, patterns
+from django.conf.urls import url, patterns
 
 # a Noop "view"
 override_view = lambda *args, **kwargs: None
