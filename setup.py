@@ -18,6 +18,9 @@ setup(
     package_data = { '': ['README.md'] },
     install_requires=[
         'django',
+        'South',
+        'simplejson',
+        'mimic',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
