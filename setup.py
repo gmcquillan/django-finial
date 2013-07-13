@@ -16,6 +16,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     package_data = { '': ['README.md'] },
+    zip_safe=False,
     install_requires=[
         'django',
         'South',
