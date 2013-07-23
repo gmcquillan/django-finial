@@ -3,6 +3,10 @@ django-finial
 
 Hierarchical template overriding on a per request basis.
 
+Build Status
+------------
+
+"!https://travis-ci.org/gmcquillan/django-finial.png!":https://travis-ci.org/gmcquillan/django-finial
 
 Definition
 ----------
